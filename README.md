@@ -1,7 +1,5 @@
 # PHP-CahierDeVacance
-Cahier de vacance PHP
 
-# PHP
 ## Exercice 1
 Afficher à l'écran : "Hello E2N !!!".
 
